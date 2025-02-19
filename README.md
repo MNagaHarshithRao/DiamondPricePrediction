@@ -8,6 +8,7 @@ This project aims to predict the price of diamonds based on various features suc
 - Utilize multiple machine learning models to compare prediction performance.
 - Data preprocessing and feature engineering for improved model accuracy.
 - Model evaluation using standard metrics (e.g., RMSE, MAE).
+- **XGBoost** is used as one of the models to predict diamond prices due to its high performance in regression tasks.
 
 ## Dataset
 The dataset used for this project contains information about diamonds and their attributes, including:
@@ -28,4 +29,7 @@ To get started with the project, you will need to clone the repository and insta
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/diamond-price-prediction.git
-   cd diamond-price-prediction
+
+
+
+
